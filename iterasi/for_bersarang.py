@@ -1,5 +1,5 @@
 #perulangan bersarang pada python
-list_angka = [1,2]
+list_angka = [1,2,3]
 list_huruf = ['a','b']
 
 for angka in  list_angka:
